@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.wp-friend_link_content ,.friend_link-box{ width: 100%; }
+.friend_link-box .boxli{float: left;margin-right: 30px;margin-bottom: 25px;text-align: center;}
+.imgdiv{text-align:center;vertical-align:middle;display:table-cell;}
+.imgtitle{color: #5a5a5a;font-size: 14px;display: inline-block;margin-top: 14px;}
+.wp-friend_link_content .imgtitle:hover{color: #5a5a5a;font-weight:normal;}
